@@ -124,7 +124,7 @@ public class Main {
             String surname = "Narynbek uulu";
             int dateOfBirth = 1993;
             byte age = 30;
-            char gender = 'M';
+            char genderg = 'M';
             float  height = 1.68f;
             String  email = "Narynbekuulu@gmail.com";
             String country = "Kyrgyzstan";
